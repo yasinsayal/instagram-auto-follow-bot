@@ -1,207 +1,187 @@
 # instagram-auto-follow-bot
 Instagram Auto Follow tool by DataScrapify. Automate Instagram following, manage targeted profile lists, and streamline Instagram marketing and growth campaigns.
-# 🚀 Instagram Auto Unfollow – Instagram Unfollow Tool & Instagram Automation
+# 🚀 Instagram Auto Follow – Instagram Automation & Auto Follow Tool
 
-[Instagram Auto UnFollow by DataScrapify](https://www.datascrapify.com/product/Instagram-Auto-UnFollow?ref=github)
+[Instagram Auto Follow by DataScrapify](https://www.datascrapify.com/product/Instagram-Auto-Follow?ref=github)
 
-Looking for an easy way to **automatically unfollow Instagram accounts**? **DataScrapify’s Instagram Auto UnFollow** is a powerful **Instagram Automation Tool** designed to automate repetitive Instagram unfollow activities and help marketers, influencers, agencies, creators, and businesses manage Instagram accounts more efficiently.
+Looking for an easy way to **automatically follow Instagram users**? **DataScrapify’s Instagram Auto Follow** is a powerful **Instagram Automation Tool** designed to automate repetitive Instagram follow activities and help marketers, influencers, agencies, creators, and businesses manage audience-growth workflows more efficiently.
 
-Instead of manually opening Instagram profiles and clicking the Unfollow button one by one, the **Instagram Auto Unfollow Tool** helps automate the process through a simple campaign-based workflow.
+Instead of manually opening Instagram profiles and clicking the Follow button one by one, the **Instagram Auto Follow Tool** helps automate the process using a structured campaign workflow.
 
-Whether you are searching for an **Instagram Unfollow Tool**, **Instagram Auto Unfollow**, **Instagram Unfollow Bot**, **Instagram Automation Tool**, or **Instagram Automation**, DataScrapify provides a browser-based solution for managing repetitive Instagram actions.
+Whether you are searching for an **Instagram automation tool**, **Instagram auto follow**, **Instagram follow bot**, **Instagram automation**, or an **Instagram auto follow tool**, DataScrapify provides a simple browser-based solution for managing repetitive Instagram actions.
 
 ---
 
-## 🔍 What Is Instagram Auto Unfollow?
+## 🔍 What Is Instagram Auto Follow?
 
-**Instagram Auto Unfollow** is an automation tool that allows you to automatically unfollow multiple Instagram profiles from a prepared list.
+**Instagram Auto Follow** is an automation tool that allows you to automatically follow multiple Instagram profiles based on a prepared list of users.
 
-When an Instagram account follows many profiles over time, managing the following list manually can become repetitive. An **Instagram Auto Unfollow Tool** helps simplify this process by allowing you to create a campaign and process selected Instagram profiles automatically.
+Manually following hundreds of relevant profiles can be repetitive and time-consuming. DataScrapify helps automate this process so you can create a campaign, provide your target Instagram profiles, and let the automation workflow handle the repetitive follow actions.
 
-DataScrapify is designed to make repetitive Instagram account-management tasks easier.
+The tool can be useful for:
 
-Possible applications include:
-
-* Instagram account management
-* Following-list cleanup
+* Instagram audience growth
+* Instagram marketing
+* Influencer outreach
+* Competitor research
+* Niche audience discovery
 * Social media management
-* Instagram automation
-* Audience management
-* Campaign management
-* Profile research
-* Account organization
+* Instagram engagement workflows
+* Profile-based audience targeting
+
+The application runs through a cloud-based/browser workflow and is designed for users who do not want to build their own Instagram automation software.
 
 ---
 
 ## 🤖 Instagram Automation Tool
 
-An **Instagram Automation Tool** can help automate repetitive account-management activities.
+An **Instagram Automation Tool** helps automate repetitive tasks that would otherwise require manual interaction.
 
-DataScrapify’s Instagram Auto Unfollow focuses specifically on automating the unfollow action.
+DataScrapify’s Instagram Auto Follow focuses specifically on automating the follow action.
 
-Instead of repeatedly performing this process manually:
+Instead of:
 
-```text id="v3a1qf"
-Open Instagram Profile
-       ↓
-Check Profile
-       ↓
-Click Unfollow
-       ↓
+```text
+Open Profile
+     ↓
+Click Follow
+     ↓
 Open Next Profile
-       ↓
-Click Unfollow
-       ↓
-Repeat
+     ↓
+Click Follow
+     ↓
+Repeat Manually
 ```
 
-You can organize the task into an automated workflow:
+You can organize the process into an automated campaign:
 
-```text id="t6m8zp"
+```text
 Instagram Profile List
-       ↓
+        ↓
 Create Campaign
-       ↓
-Configure Auto Unfollow
-       ↓
+        ↓
+Configure Instagram Auto Follow
+        ↓
 Start Campaign
-       ↓
-Automated Unfollow Actions
-       ↓
+        ↓
+Automated Follow Actions
+        ↓
 Track Campaign Status
 ```
 
-This can significantly reduce repetitive manual account-management work.
+This can save time when managing repetitive Instagram workflows.
 
 ---
 
 ## ⚡ Key Features
 
-### 📤 Automatically Unfollow Instagram Profiles
+### 📥 Automatically Follow Instagram Profiles
 
-Automatically process selected Instagram profiles and perform the unfollow action through the campaign workflow.
+Automatically process a prepared list of Instagram profiles and perform the follow action through the automation workflow.
 
-### 📋 Custom Instagram Profile Lists
+### 🎯 Targeted Profile Lists
 
 Enter Instagram profiles manually or select a profile list generated through another DataScrapify campaign.
 
-This provides flexibility when managing large lists of Instagram accounts.
+This makes it possible to connect audience research with Instagram automation.
 
 ### 🔄 Instagram Follower Scraper Integration
 
-You can use profile lists generated through an **Instagram Follower Scraper** as part of your broader Instagram research and account-management workflow.
+You can use profile lists generated by an **Instagram Follower Scraper** as an input source for your Instagram Auto Follow campaign.
 
 For example:
 
-```text id="k4w2ns"
-Instagram Profile Research
+```text
+Instagram Target Profile
         ↓
 Instagram Follower Scraper
         ↓
-Profile Dataset
+Follower/Profile List
         ↓
-Select Profile List
+Instagram Auto Follow
         ↓
-Instagram Auto Unfollow
-        ↓
-Unfollow Campaign
+Automated Follow Campaign
 ```
 
-### 🕒 Controlled Automation
+This can help create a more organized audience research and engagement workflow.
 
-The automation workflow can use delays between actions to create a more controlled campaign process.
+### 🕒 Configurable Delays
+
+The automation workflow can use delays between actions to help create a more controlled campaign process.
 
 ### 📊 Real-Time Status Tracking
 
-Monitor available campaign status information while the Instagram Auto Unfollow campaign is running.
+Track available campaign activity and status information while the Instagram Auto Follow campaign is running.
 
-### 💻 Local Instagram Login
+### 💻 Local Account Login
 
-Login to your Instagram account locally on your device and provide the required session information according to the application workflow.
+Login to your Instagram account locally on your device and provide the required session information according to the application's workflow.
 
-### ☁️ Cloud-Based Workflow
+### ☁️ Cloud-Based Tool
 
-Manage your campaign through a browser-based environment without needing to develop your own Instagram automation infrastructure.
+Manage your campaigns through a browser-based environment without needing to build your own Instagram automation infrastructure.
 
 ### 🧠 No Coding Required
 
-You do not need to create Python scripts or custom automation software. The tool provides a ready-to-use interface for creating campaigns.
+You do not need to develop Python scripts or custom automation software. The tool provides a ready-to-use interface for creating campaigns.
 
 ---
 
-## 🎯 Why Use an Instagram Auto Unfollow Tool?
+## 🎯 Why Use an Instagram Auto Follow Tool?
 
-Managing a large Instagram following list manually can take considerable time.
+Managing Instagram accounts can involve many repetitive actions.
 
-An **Instagram Auto Unfollow Tool** can automate repetitive unfollow tasks and make account management easier.
+An **Instagram Auto Follow Tool** can help reduce the manual effort involved in following relevant profiles.
 
 ### Save Time
 
-Automate repetitive unfollow actions instead of manually visiting profiles and clicking Unfollow.
+Instead of manually visiting every profile and clicking Follow, automate repetitive follow actions through a campaign.
 
-### Manage Your Following List
+### Audience Research
 
-Use selected profile lists to organize and manage Instagram accounts according to your account-management strategy.
+Create targeted profile lists based on your research and use them as campaign inputs.
 
-### Automate Repetitive Tasks
+### Instagram Marketing
 
-Reduce repetitive browser interactions and focus more time on content, analytics, and audience strategy.
+Use automated follow workflows as part of a broader Instagram marketing strategy.
 
-### Organize Campaigns
+### Influencer Research
 
-Create separate campaigns for different profile lists or account-management tasks.
+Researchers and agencies can organize creator or influencer profiles and use the data for legitimate engagement workflows.
 
----
+### Niche Discovery
 
-## 📈 Instagram Following Management
-
-Instagram Auto Unfollow can be useful for users who want to better manage their Instagram following activity.
-
-Over time, Instagram accounts may accumulate large numbers of followed profiles. Reviewing and managing these profiles manually can become difficult.
-
-An **Instagram Unfollow Tool** can help automate selected account-management tasks.
-
-Possible research and management workflows include:
-
-* Following-list organization
-* Profile review
-* Account cleanup
-* Audience research
-* Competitor research
-* Social media management
-* Instagram account organization
+Build lists of relevant Instagram profiles within a specific niche and organize them for further research.
 
 ---
 
-## 🔎 Instagram Scraper & Profile Research
+## 📈 Instagram Growth Automation
 
-An **Instagram Scraper** can be used as part of a broader Instagram research workflow.
+**Instagram Growth Automation** can involve multiple activities, including content publishing, audience research, engagement, analytics, and profile management.
 
-For example, profile lists generated through DataScrapify's Instagram scraping tools can potentially be used as input for other account-management workflows.
+Instagram Auto Follow can be one component of a broader workflow.
 
-A typical workflow could look like:
+For example:
 
-```text id="s9r6cd"
-Instagram Scraper
+```text
+Audience Research
        ↓
-Profile Data
+Instagram Profile Collection
        ↓
-Filter & Organize Profiles
+Target Profile List
        ↓
-Create Target List
+Instagram Auto Follow
        ↓
-Instagram Automation
-       ↓
-Auto Unfollow Campaign
+Engagement & Analytics
 ```
 
-This makes Instagram scraping and automation useful components of a larger social media management workflow.
+Automation should always be combined with responsible account management and genuine audience engagement.
 
 ---
 
-## 👥 Who Can Use Instagram Auto Unfollow?
+## 👥 Who Can Use Instagram Auto Follow?
 
-DataScrapify’s **Instagram Auto Unfollow Tool** can be useful for:
+DataScrapify’s **Instagram Auto Follow Tool** can be useful for:
 
 * Digital marketers
 * Social media managers
@@ -216,37 +196,37 @@ DataScrapify’s **Instagram Auto Unfollow Tool** can be useful for:
 * Growth teams
 * Social media researchers
 
-The tool is particularly useful for users who regularly manage large Instagram profile lists.
+The tool is particularly useful for users who regularly manage repetitive Instagram follow activities.
 
 ---
 
-## 💼 Instagram Automation Use Cases
+## 💼 Instagram Marketing Use Cases
 
-### Social Media Management
+### Influencer Marketing
 
-Automate repetitive Instagram account-management tasks as part of a larger social media workflow.
+Marketing teams can organize relevant influencer and creator profiles as part of their research and engagement workflows.
 
-### Account Cleanup
+### E-commerce Marketing
 
-Process selected profiles when managing or reviewing a large following list.
+Online businesses can research relevant audiences and organize Instagram profiles based on their marketing strategy.
 
-### Marketing Research
+### Agency Campaigns
 
-Organize Instagram profiles collected during competitor, market, or audience research.
+Agencies managing multiple social media projects can create separate campaigns for different clients or audience segments.
 
-### Influencer Research
+### Audience Research
 
-Use profile datasets to organize creator and influencer research before performing other account-management activities.
+Researchers can collect relevant profile lists and use Instagram automation as one part of a larger research workflow.
 
-### Agency Workflows
+### Competitor Research
 
-Agencies can create separate campaigns for different projects and manage Instagram profile lists more systematically.
+Publicly available competitor-related profile information can be researched and organized before creating a targeted campaign.
 
 ---
 
-## 🛠️ How Instagram Auto Unfollow Works
+## 🛠️ How Instagram Auto Follow Works
 
-Using DataScrapify's **Instagram Auto Unfollow** is straightforward.
+Using DataScrapify’s Instagram Auto Follow is straightforward.
 
 ### Step 1 – Login to Instagram
 
@@ -260,51 +240,53 @@ Use the cookie export process described below to obtain the required session coo
 
 Keep your session cookie confidential.
 
-### Step 3 – Prepare Instagram Profile List
+### Step 3 – Prepare Your Profile List
 
-Enter Instagram profile usernames manually or select a profile list from another DataScrapify campaign.
+Enter Instagram profile usernames manually or select a profile list from another DataScrapify campaign, such as an Instagram Follower Scraper campaign.
 
-### Step 4 – Start the Campaign
+### Step 4 – Configure the Campaign
 
-Review your selected profiles and start the Instagram Auto Unfollow campaign.
+Review your target profile list and configure the available campaign settings.
 
-### Step 5 – Automated Unfollow
+### Step 5 – Start Instagram Auto Follow
 
-The automation workflow processes the selected profiles and performs the configured unfollow actions.
+Start the campaign and allow the automation workflow to process the selected profiles.
 
 ### Step 6 – Track Campaign Status
 
-Monitor the available campaign status information to understand the progress of your automation.
+Monitor the available status information to understand campaign progress.
 
 ---
 
 ## 🔄 Complete Instagram Automation Workflow
 
-```text id="w7p3la"
+```text
 Instagram Account
        ↓
 Local Login
        ↓
 Instagram Cookie
        ↓
-Instagram Profile List
+Target Profile List
        ↓
-Manual List / Scraper Campaign
+Manual Profiles / Follower Scraper
        ↓
-Instagram Auto Unfollow
+Instagram Auto Follow
        ↓
-Controlled Unfollow Actions
+Controlled Follow Actions
        ↓
 Campaign Status
        ↓
 Review Results
 ```
 
+This workflow makes repetitive Instagram follow management easier to organize.
+
 ---
 
 ## 🍪 How to Get Instagram Cookie
 
-Instagram Auto Unfollow uses an Instagram session cookie as part of its account workflow.
+Instagram Auto Follow uses an Instagram session cookie as part of its account workflow.
 
 ### Step 1 – Install Cookie Extension
 
@@ -320,21 +302,21 @@ Open Instagram in your browser and log in to the account you intend to use.
 
 Open the cookie extension and export the required Instagram session cookie information.
 
-### Step 4 – Add Cookie to DataScrapify
+### Step 4 – Use the Cookie Securely
 
-Provide the cookie according to the application's instructions.
+Provide the cookie to DataScrapify according to the application's instructions.
 
 **Important:** Instagram session cookies are authentication credentials. Never publish them on GitHub, include them in screenshots, or share them with untrusted people or services.
 
 ---
 
-## 🎥 Instagram Auto Unfollow Demo
+## 🎥 Instagram Auto Follow Demo
 
-Watch the product demonstration to learn how the **Instagram Auto Unfollow Tool** works:
+Watch the product demonstration to learn how the **Instagram Auto Follow Tool** works:
 
-[Watch Instagram Auto Unfollow Demo](https://www.youtube.com/embed/pdmkiLclzIY)
+[Watch Instagram Auto Follow Demo](https://www.youtube.com/embed/pdmkiLclzIY)
 
-You can also review the cookie setup demonstration:
+You can also review the cookie setup video:
 
 [Watch Instagram Cookie Setup Demo](https://www.youtube.com/embed/gXXK-wbCxx0)
 
@@ -342,17 +324,19 @@ You can also review the cookie setup demonstration:
 
 ## 🔐 Privacy & Security
 
-The Instagram Auto Unfollow workflow is designed to work with account information provided by the user.
+The Instagram Auto Follow workflow is designed to work with account information provided by the user.
 
 Use appropriate security practices when handling Instagram credentials and session cookies.
 
-Never store authentication cookies in public GitHub repositories, source-code files, screenshots, or unsecured documents.
+Never store your cookies in public repositories, GitHub commits, screenshots, or unsecured documents.
+
+Always use a dedicated and properly authorized account for automation activities where appropriate.
 
 ---
 
 ## ⚠️ Responsible Instagram Automation
 
-Use **Instagram Automation** responsibly.
+Instagram automation should be used responsibly.
 
 Only automate actions you are authorized to perform and follow Instagram/Meta's applicable terms, policies, restrictions, and community guidelines.
 
@@ -363,10 +347,10 @@ Avoid using automation for:
 * Impersonation
 * Fake engagement
 * Unauthorized account activity
-* Excessive automated actions
+* Aggressive or excessive automated actions
 * Attempts to bypass platform restrictions
 
-Automation should help reduce repetitive work while respecting the platform and its users.
+Automation should support legitimate marketing, research, and social media management—not abuse the platform or its users.
 
 **Disclaimer**
 
@@ -374,27 +358,27 @@ Automation should help reduce repetitive work while respecting the platform and 
 
 ---
 
-## ⭐ Benefits of Instagram Auto Unfollow
+## ⭐ Benefits of Instagram Auto Follow
 
-Using an **Instagram Auto Unfollow Tool** can help you:
+Using an **Instagram Auto Follow Tool** can help you:
 
-* Automate repetitive unfollow actions
-* Save manual account-management time
-* Manage Instagram profile lists
-* Organize following-list cleanup
-* Connect scraping and automation workflows
-* Create campaign-based tasks
-* Track campaign progress
+* Automate repetitive follow actions
+* Save manual work
+* Manage targeted profile lists
+* Connect follower research with automation
+* Organize Instagram campaigns
+* Track campaign activity
 * Run workflows through a browser
-* Reduce repetitive Instagram actions
-* Support social media management
+* Reduce repetitive Instagram tasks
+* Support Instagram marketing workflows
+* Manage audience research more efficiently
 
 ---
 
-## 🚀 Get Instagram Auto Unfollow
+## 🚀 Get Instagram Auto Follow
 
-If you are searching for an **Instagram Auto Unfollow Tool**, **Instagram Unfollow Tool**, **Instagram Unfollow Bot**, **Instagram Automation Tool**, or **Instagram Automation** solution, DataScrapify provides a simple workflow for automating repetitive Instagram unfollow activities.
+If you are searching for an **Instagram Auto Follow Tool**, **Instagram Automation Tool**, **Instagram Follow Bot**, **Instagram Automation**, or **Instagram Marketing Automation** solution, DataScrapify provides a simple workflow for automating repetitive Instagram follow activities.
 
 Start using DataScrapify:
 
-[Instagram Auto UnFollow](https://www.datascrapify.com/product/Instagram-Auto-UnFollow?ref=github)
+[Instagram Auto Follow](https://www.datascrapify.com/product/Instagram-Auto-Follow?ref=github)
